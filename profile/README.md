@@ -1,12 +1,16 @@
-## Hi there 👋
+# GreenyNET 🎮
 
+Willkommen bei GreenyNET! Wir sind eine Organisation von Entwicklern und Minecraft-Enthusiasten, die sich der Schaffung von qualitativ hochwertigen Minecraft-Servern und -Plugins verschrieben haben.
 
+## Unsere Projekte 🛠️
 
-**Here are some ideas to get you started:**
+- GreenyNET Minecraft Server: Einer der beliebtesten Minigames Servern in Deutschland mit vielen Spielmodi und coolen Events.
+- GreenyNET Plugins: Eine Sammlung von 100% eigenen Plugins für unseren Minecraft Server, entwickelt von unserem talentierten Team.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Mitmachen 👋
 
+Wir sind immer auf der Suche nach talentierten Entwicklern und Minecraft-Enthusiasten, die sich unserem Team anschließen möchten. Wenn du Interesse hast, schau dir unsere offenen Stellen an oder kontaktiere uns direkt.
+
+## Unterstützung ❤️
+
+Wenn du unsere Arbeit schätzt und uns unterstützen möchtest, kannst du uns helfen, indem du einfach auf unserem Minecraft Server spielst. Jede Unterstützung ist willkommen!
